@@ -2,11 +2,13 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("123");
         System.out.println(first_class.first_method(20,10));
         first_class.second_method(10);
         first_class.fourth_method("hi",3);
         System.out.println(first_class.sixth_method(400));
-        //123
+        //12345
+
     }
     public class first_class
     {
