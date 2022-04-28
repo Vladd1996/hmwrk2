@@ -6,6 +6,7 @@ public class Main {
         first_class.second_method(10);
         first_class.fourth_method("hi",3);
         System.out.println(first_class.sixth_method(400));
+        //123
     }
     public class first_class
     {
